@@ -1,3 +1,4 @@
 # Portfolio
-Software Engineer with an edge for solving complex problems. Currently engineering solutions at Soitec while pursuing my Master's in Computer Science. Here you'll find a collection of projects from web development to data engineering.
+## Hello.
+My name's Matias. Here you'll find a collection of self-developed projects showcasing my work in web development, data engineering, and everything in between. Each repository demonstrates different approaches to solving complex problems through code.
 Let's dive in.
