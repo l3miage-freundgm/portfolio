@@ -3,7 +3,7 @@ Hello! My name's Matias. I build things that work. From crafting efficient data 
 The code speaks for itself. Let's dive in.
 #
 ### [LeadMine - AI-Powered Lead Generation SaaS]()
-- Built an intelligent lead generation system that automates prospect discovery through web scraping and AI analysis. Transforms raw web data into qualified leads for businesses targeting professionals without a website.
+- Built an intelligent lead generation system that automates prospect discovery through web scraping and AI analysis. Transforms raw web data into qualified leads for businesses targeting professionals that don't have a website.
 - Tech Stack: Python (FastAPI, SQLAlchemy), TypeScript, React, OpenAI API, PostgreSQL, Redis
 [Visit Website]() | [View Code]()
 ### [BHD Consulting Website](https://github.com/l3miage-freundgm/DHBConsulting-website)
