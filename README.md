@@ -11,7 +11,7 @@ Tech Stack: Python (FastAPI, BeautifulSoup4, SQLAlchemy), TypeScript, React, Ope
 - Engineered a sleek, professional web platform for an oil well integrity consultant. Clean design meets technical expertise to showcase specialized engineering services. Built with modern web architecture for optimal performance.
 - Tech Stack: Next.js, React, Tailwind CSS
 [Visit Website](https://bhd-consulting-website.vercel.app/) | [View Code](https://github.com/l3miage-freundgm/DHBConsulting-website)
-### [PokerAI - Advanced Poker Agent Based on Pluribus Research]()
+### [GodOfPoker- Advanced Poker Agent Based on Pluribus Research]()
 - Developed a poker AI system inspired by Facebook AI and CMU's Pluribus research, implementing counterfactual regret minimization (CFR) for Texas Hold'em poker.
 - Created a scalable architecture capable of training against multiple opponents and adapting strategies through self-play.
 Tech Stack: Python (NumPy, Ray), C++ for performance-critical components, Redis for state management, Docker
