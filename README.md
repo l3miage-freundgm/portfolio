@@ -2,11 +2,6 @@
 Hello! My name's Matias. I build things that work. This portfolio is a collection of personnal projects I've tackled.
 The code speaks for itself. Let's dive in.
 #
-### [Liids | AI-Powered Web Scraping Lead Generation SaaS]()
-- Built an intelligent lead generation system that automates prospect discovery through web scraping and AI analysis. Transforms raw web data into qualified leads for businesses targeting professionals that don't have a website.
-- Leveraged OpenAI's API to analyze scraped data, implementing custom NLP prompts for lead qualification.
-Tech Stack: Python (FastAPI, BeautifulSoup4, SQLAlchemy), TypeScript, React, OpenAI API, PostgreSQL, Redis, Celery
-[Visit Website]() | [View Code]()
 ### [BHD Consulting | Website](https://github.com/l3miage-freundgm/DHBConsulting-website)
 - Engineered a sleek, professional web platform for an oil well integrity consultant. Clean design meets technical expertise to showcase specialized engineering services. Built with modern web architecture for optimal performance.
 - Tech Stack: Next.js, React, Tailwind CSS
