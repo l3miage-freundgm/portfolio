@@ -1,6 +1,6 @@
 # Software Engineer Portfolio
-Hello! My name's Matias. I build things that work. This portfolio is a collection of personnal projects I've tackled.
-The code speaks for itself. Let's dive in.
+Hello! My name's Matias. I build things that work, some boring, some exciting and weird. This portfolio is a collection of personnal projects I've tackled.
+The code speaks for itself I guess. Let's dive in.
 #
 ### [BHD Consulting | Website](https://github.com/l3miage-freundgm/DHBConsulting-website)
 - Engineered a sleek, professional web platform for an oil well integrity consultant. Clean design meets technical expertise to showcase specialized engineering services. Built with modern web architecture for optimal performance.
